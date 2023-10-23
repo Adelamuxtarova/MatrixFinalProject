@@ -1,0 +1,17 @@
+C:\Users\Adela\OneDrive\Рабочий стол\FinalProjectMatrix\BuisnessLogicLayer\bin\Debug\net7.0\BuisnessLogicLayer.deps.json
+C:\Users\Adela\OneDrive\Рабочий стол\FinalProjectMatrix\BuisnessLogicLayer\bin\Debug\net7.0\BuisnessLogicLayer.runtimeconfig.json
+C:\Users\Adela\OneDrive\Рабочий стол\FinalProjectMatrix\BuisnessLogicLayer\bin\Debug\net7.0\BuisnessLogicLayer.dll
+C:\Users\Adela\OneDrive\Рабочий стол\FinalProjectMatrix\BuisnessLogicLayer\bin\Debug\net7.0\BuisnessLogicLayer.pdb
+C:\Users\Adela\OneDrive\Рабочий стол\FinalProjectMatrix\BuisnessLogicLayer\bin\Debug\net7.0\DataAccessLayer.dll
+C:\Users\Adela\OneDrive\Рабочий стол\FinalProjectMatrix\BuisnessLogicLayer\bin\Debug\net7.0\DataAccessLayer.pdb
+C:\Users\Adela\OneDrive\Рабочий стол\FinalProjectMatrix\BuisnessLogicLayer\obj\Debug\net7.0\BuisnessLogicLayer.csproj.AssemblyReference.cache
+C:\Users\Adela\OneDrive\Рабочий стол\FinalProjectMatrix\BuisnessLogicLayer\obj\Debug\net7.0\BuisnessLogicLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Adela\OneDrive\Рабочий стол\FinalProjectMatrix\BuisnessLogicLayer\obj\Debug\net7.0\BuisnessLogicLayer.AssemblyInfoInputs.cache
+C:\Users\Adela\OneDrive\Рабочий стол\FinalProjectMatrix\BuisnessLogicLayer\obj\Debug\net7.0\BuisnessLogicLayer.AssemblyInfo.cs
+C:\Users\Adela\OneDrive\Рабочий стол\FinalProjectMatrix\BuisnessLogicLayer\obj\Debug\net7.0\BuisnessLogicLayer.csproj.CoreCompileInputs.cache
+C:\Users\Adela\OneDrive\Рабочий стол\FinalProjectMatrix\BuisnessLogicLayer\obj\Debug\net7.0\BuisnessLogicLayer.csproj.CopyComplete
+C:\Users\Adela\OneDrive\Рабочий стол\FinalProjectMatrix\BuisnessLogicLayer\obj\Debug\net7.0\BuisnessLogicLayer.dll
+C:\Users\Adela\OneDrive\Рабочий стол\FinalProjectMatrix\BuisnessLogicLayer\obj\Debug\net7.0\refint\BuisnessLogicLayer.dll
+C:\Users\Adela\OneDrive\Рабочий стол\FinalProjectMatrix\BuisnessLogicLayer\obj\Debug\net7.0\BuisnessLogicLayer.pdb
+C:\Users\Adela\OneDrive\Рабочий стол\FinalProjectMatrix\BuisnessLogicLayer\obj\Debug\net7.0\BuisnessLogicLayer.genruntimeconfig.cache
+C:\Users\Adela\OneDrive\Рабочий стол\FinalProjectMatrix\BuisnessLogicLayer\obj\Debug\net7.0\ref\BuisnessLogicLayer.dll

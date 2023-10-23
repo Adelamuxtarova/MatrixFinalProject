@@ -1,0 +1,173 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>FinalProjectMatrix</name>
+    </assembly>
+    <members>
+        <!-- Badly formed XML comment ignored for member "T:FinalProject.Controllers.AdvertisementController" -->
+        <member name="M:FinalProject.Controllers.AdvertisementController.AddAdvertisement(BuisnessLogicLayer.AddAdvertismentDTO)">
+            <summary>
+            Adds a new registration entry.
+            </summary>
+            <param name="AdvertisementInfo">The Advertisement information to add.</param>
+            <returns>A response model containing the result of the Advertisement addition.</returns>
+        </member>
+        <member name="M:FinalProject.Controllers.AdvertisementController.UpdateAdvertisement(BuisnessLogicLayer.Models.Dtos.UpdateAdvertismentDTO)">
+            <summary>
+            Updates an existing Advertisement entry.
+            </summary>
+            <param name="NewAdvertisement">The updated Advertisement information.</param>
+            <returns>A response model containing the result of the Advertisement update.</returns>
+        </member>
+        <member name="M:FinalProject.Controllers.AdvertisementController.DeleteAdvertisement(System.Int32)">
+            <summary>
+            Deletes a Advertisement entry by its ID.
+            </summary>
+            <param name="id">The ID of the Advertisement entry to delete.</param>
+            <returns>A response model indicating the result of the Advertisement entry deletion.</returns>
+        </member>
+        <member name="M:FinalProject.Controllers.AdvertisementController.GetAllAdvertisements">
+            <summary>
+            Gets a list of all registration entries.
+            </summary>
+            <returns>A response model containing the list of Advertisement entries.</returns>
+        </member>
+        <member name="T:FinalProject.Controllers.RoomController">
+            <summary>
+            Controller for managing rooms.
+            </summary>
+        </member>
+        <member name="M:FinalProject.Controllers.RoomController.CreateRoom(BuisnessLogicLayer.RoomAddDTO)">
+            <summary>
+            Creates a new room.
+            </summary>
+            <param name="addRoom">The room information to add.</param>
+            <returns>A response model containing the result of the room creation.</returns>
+        </member>
+        <member name="M:FinalProject.Controllers.RoomController.UpdateRoom(BuisnessLogicLayer.RoomUpdateDTO)">
+            <summary>
+            Updates an existing room.
+            </summary>
+            <param name="EditedRoom">The updated room information.</param>
+            <returns>A response model containing the result of the room update.</returns>
+        </member>
+        <member name="M:FinalProject.Controllers.RoomController.DeleteRoom(System.Int32)">
+            <summary>
+            Deletes a room by its ID.
+            </summary>
+            <param name="id">The ID of the room to delete.</param>
+            <returns>A response model indicating the result of the room deletion.</returns>
+        </member>
+        <member name="M:FinalProject.Controllers.RoomController.GetAllRooms">
+            <summary>
+            Gets a list of all rooms.
+            </summary>
+            <returns>A response model containing the list of rooms.</returns>
+        </member>
+        <member name="T:FinalProjectMatrix.Controllers.BranchesController">
+            <summary>
+            Controller for managing branches.
+            </summary>
+        </member>
+        <member name="M:FinalProjectMatrix.Controllers.BranchesController.AddBranch(BuisnessLogicLayer.BranchDTO)">
+            <summary>
+            Adds a new branch.
+            </summary>
+            <param name="branchInfo">The branch information to add.</param>
+            <returns>A response model containing the result of the branch addition.</returns>
+        </member>
+        <member name="M:FinalProjectMatrix.Controllers.BranchesController.UpdateBranch(BuisnessLogicLayer.Models.Dtos.UpdateBranchDTO)">
+            <summary>
+            Updates an existing branch.
+            </summary>
+            <param name="NewBranch">The updated branch information.</param>
+            <returns>A response model containing the result of the branch update.</returns>
+        </member>
+        <member name="M:FinalProjectMatrix.Controllers.BranchesController.DeleteBranch(System.Int32)">
+            <summary>
+            Deletes a branch by its ID.
+            </summary>
+            <param name="id">The ID of the branch to delete.</param>
+            <returns>A response model indicating the result of the branch deletion.</returns>
+        </member>
+        <member name="M:FinalProjectMatrix.Controllers.BranchesController.GetAllBranches">
+            <summary>
+            Gets a list of all branches.
+            </summary>
+            <returns>A response model containing the list of branches.</returns>
+        </member>
+        <member name="M:FinalProjectMatrix.Controllers.CustomerController.AddCustomer(BuisnessLogicLayer.Models.Dtos.AddCustomerDTO)">
+            <summary>
+            Adds a new customer.
+            </summary>
+            <param name="customerInfo">The customer information to add.</param>
+            <returns>A response model containing the result of the customer addition.</returns>
+        </member>
+        <member name="M:FinalProjectMatrix.Controllers.CustomerController.UpdateCustomer(BuisnessLogicLayer.Models.Dtos.UpdateCustomerDTO)">
+            <summary>
+            Updates an existing Customer.
+            </summary>
+            <param name="NewCustomer">The updated Customer information.</param>
+            <returns>A response model containing the result of the Customer update.</returns>
+        </member>
+        <member name="M:FinalProjectMatrix.Controllers.CustomerController.DeleteCustomer(System.Int32)">
+            <summary>
+            Deletes a Customer by its ID.
+            </summary>
+            <param name="id">The ID of the Customer to delete.</param>
+            <returns>A response model indicating the result of the Customer deletion.</returns>
+        </member>
+        <member name="M:FinalProjectMatrix.Controllers.CustomerController.GetAllCustomers">
+            <summary>
+            Gets a list of all Customers.
+            </summary>
+            <returns>A response model containing the list of Customers.</returns>
+        </member>
+        <member name="T:FinalProjectMatrix.Controllers.ReservationController">
+            <summary>
+            Controller for managing reservations.
+            </summary>
+        </member>
+        <member name="M:FinalProjectMatrix.Controllers.ReservationController.AddReservation(BuisnessLogicLayer.ReservationDTO)">
+            <summary>
+            Creates a new reservation.
+            </summary>
+            <param name="ReservationInfo">The reservation information to add.</param>
+            <returns>A response model containing the result of the reservation creation.</returns>
+        </member>
+        <member name="M:FinalProjectMatrix.Controllers.ReservationController.UpdateReservation(BuisnessLogicLayer.ReservationUpdateDTO)">
+            <summary>
+            Updates an existing reservation.
+            </summary>
+            <param name="UpdatedReservation">The updated reservation information.</param>
+            <returns>A response model containing the result of the reservation update.</returns>
+        </member>
+        <member name="M:FinalProjectMatrix.Controllers.ReservationController.DeleteReservation(System.Int32)">
+            <summary>
+            Deletes a reservation by its ID.
+            </summary>
+            <param name="id">The ID of the reservation to delete.</param>
+            <returns>A response model indicating the result of the reservation deletion.</returns>
+        </member>
+        <member name="M:FinalProjectMatrix.Controllers.ReservationController.GetAllReservations">
+            <summary>
+            Gets a list of all reservations.
+            </summary>
+            <returns>A response model containing the list of reservations.</returns>
+        </member>
+        <member name="M:FinalProjectMatrix.Controllers.UserController.UpdateUser(BuisnessLogicLayer.Models.Dtos.UpdateUserDTO)">
+            <summary>
+            Updates an existing User.
+            </summary>
+            <param name="NewUser">The updated User information.</param>
+            <returns>A response model containing the result of the User update.</returns>
+        </member>
+        <member name="M:FinalProjectMatrix.Controllers.UserController.DeleteUser(System.String)">
+            <summary>
+            Deletes a User by its ID.
+            </summary>
+            <param name="id">The ID of the User to delete.</param>
+            <returns>A response model indicating the result of the User deletion.</returns>
+        </member>
+    </members>
+</doc>
